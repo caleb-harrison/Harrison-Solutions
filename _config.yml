@@ -7,7 +7,7 @@ url: "harrisonsolutions.us" # the base hostname & protocol for your site e.g. ht
 # User settings
 username: Harrison Solutions
 user_description: Harrison Solutions is a technology solutions company based in Alabama. Our mission is to help residents and businesses harness the power of technology to improve their lives. As a full-service technology firm, our services range from on-site business and residential tech support and troubleshooting, to online web services such as web hosting, web design, and e-mail hosting. Whatever your technology needs, Harrison Solutions has the solution for you.
-user_title: delivering success with every solution
+user_title: Modern technology solutions for all of your needs.
 email: contact@harrisonsolutions.us
 
 exclude: ['package.json', 'src' , 'node_modules']
